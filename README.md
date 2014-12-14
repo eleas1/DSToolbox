@@ -1,3 +1,3 @@
 DSToolbox
 =========
-Hello word.  Here are my changes.
+Hello world.  Here are my changes.
